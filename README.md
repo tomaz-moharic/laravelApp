@@ -1,2 +1,2 @@
 # laravelApp
-leravel training app
+laravel training app
